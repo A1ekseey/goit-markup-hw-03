@@ -111,11 +111,12 @@ ol {
 .contacts-info {
   display: block;
   font-weight: 400;
+  padding: 24px 0;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  padding: 24px 0;
+ 
 }
 
 .contacts-info:hover,
@@ -130,6 +131,7 @@ ol {
   height: 600px;
   display: flex;
   align-items: center;
+  padding: 188px 0 188px;
  
 }
 
@@ -162,8 +164,8 @@ ol {
 }
 
 .button:hover,
-button:focus {
-  background-color: #404bbf;
+.button:focus {
+background-color: #404bbf;
 }
 
 /* <!-- Section-one --> */
@@ -228,7 +230,7 @@ img {
   text-align: center;
   padding-top: 32px;
   padding-bottom: 32px;
-  margin-bottom: 8px;
+
 }
 
 .section-two-text {
